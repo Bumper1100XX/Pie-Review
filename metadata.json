@@ -1,0 +1,6 @@
+{
+  "name": "Pie Ruview Monitor",
+  "description": "A WiFi Channel State Information (CSI) radar tracking, physical device configuration, real-time alert logger, and hardware decision-tree management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
